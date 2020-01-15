@@ -13,13 +13,13 @@ Created by:
 Implemented Three models "U-net", "MultiRes Unet" and a model porosped named it as "Proposed Unet Model" and their respective architectures can be found below.
 
 # U-NET
-![U-NET](ModelArchitectures/Unet_model.png)
+![U-NET](Models/Unet_model.png)
 
 # MULTIRES U-NET
-![MULTIRES U-NET](ModelArchitectures/Multires_unet.png)
+![MULTIRES U-NET](Models/Multires_unet.png)
 
 # PROPOSED U-NET
-![MULTIRES U-NET](ModelArchitectures/Proposed_model.png)
+![MULTIRES U-NET](Models/Proposed_model.png)
 
 # METRICS AND LOSS PLOTS
 # TRAIN DICE SCORE
